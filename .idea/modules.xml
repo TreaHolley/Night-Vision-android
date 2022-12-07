@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ThermalCameraApplication.iml" filepath="$PROJECT_DIR$/.idea/modules/ThermalCameraApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ThermalCameraApplication.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ThermalCameraApplication.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ThermalCameraApplication.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ThermalCameraApplication.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ThermalCameraApplication.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ThermalCameraApplication.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ThermalCameraApplication.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ThermalCameraApplication.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
